@@ -1,0 +1,6 @@
+.env
+.maenv/
+__pycache__/
+*.py[cod]
+qdrant_storage/
+.deepeval/

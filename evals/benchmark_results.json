@@ -1,0 +1,20 @@
+[
+  {
+    "query": "What is Model Context Protocol (MCP) and how does it standardize AI agent integrations?",
+    "latency_seconds": 150.49,
+    "revision_count": 2,
+    "initial_faithfulness": 1.0,
+    "final_faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "contextual_precision": 0
+  },
+  {
+    "query": "How does Qdrant vector database implement HNSW indexing and payload filtering?",
+    "latency_seconds": 72.84,
+    "revision_count": 1,
+    "initial_faithfulness": 1.0,
+    "final_faithfulness": 1.0,
+    "answer_relevancy": 1.0,
+    "contextual_precision": 0.778
+  }
+]
